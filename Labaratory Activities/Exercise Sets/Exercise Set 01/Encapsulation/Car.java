@@ -70,6 +70,5 @@ class Car{
         System.out.println(redCar);
         System.out.println(blueCar);
     }
-
 }
 
