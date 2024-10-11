@@ -1,5 +1,3 @@
-package Encapsulation;
-
 class Car{
     private  String color;
     private  double price;
