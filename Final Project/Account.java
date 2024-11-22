@@ -22,7 +22,7 @@ class User extends Account {
         }
         @Override
         public void displayMenu() {
-            System.out.println("User-specific menu options here.");
+            System.out.printf("User");
         }
 }
 
@@ -32,6 +32,6 @@ class Admin extends Account {
     }
     @Override
     public void displayMenu() {
-        System.out.println("Admin-specific menu options here.");
+        System.out.printf("Admin");
     }
 } 
