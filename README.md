@@ -15,7 +15,7 @@ All laboratory activities are completed:
 ## Exercise Sets🎯📂
 Complete list of exercise sets:
 
-- [x] **Encapsulation 🛡️**  
+- [x] [**Encapsulation 🛡️**] (https://github.com/Ken-zaki/Valdez-John-Kenneth-C.-CS2102_OOPactivities/blob/main/Labaratory%20Activities/Exercise%20Sets/Exercise%20Set%2001/Encapsulation/Car.java)  
 - [x] **Escseq.java 📝**  
 - [x] **Tempconvert.java 🌡️**  
 - [x] **Welcome.java 👋**
